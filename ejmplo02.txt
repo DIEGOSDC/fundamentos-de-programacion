@@ -1,0 +1,12 @@
+import java.util.*;
+public class ejemplo01{
+ public static void main(strings args[]){
+ Scanner sc = new Scanner(Syatem.in);
+System.out.print.("nota: ");
+ int nota = sc.nextInt();
+if(nota)>=7){
+Syatem.out.printl("Enhorabuena");
+System.out.printl("Haz aprobado");
+   }  
+  }
+}
